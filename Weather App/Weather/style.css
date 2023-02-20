@@ -1,0 +1,16 @@
+body{
+    background-color:#5BC0F8;
+}
+.navbar-brand{
+    font-weight: bold;
+    color: black;
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(249, 253, 255);
+    color: black;
+    margin-top: 160px;
+  }
+
+
